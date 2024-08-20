@@ -4,7 +4,7 @@
       "description": "DraMMAN是一种基于深度学习的图像编辑技术,利用对抗生成网络(MAN)...",
       "author": "DFM",
       "file_size": "6.37M",
-      "downloads": 001,
+      "downloads": "001",
       "download_url": "下载链接1"
     },
     {
@@ -12,7 +12,7 @@
       "description": "绘世Stable Diffusion Web UI的一键启动器,已经安装这绘世的可以...",
       "author": "DFM",
       "file_size": "8.79M",
-      "downloads": 7659,
+      "downloads": "7659",
       "download_url": "下载链接2"
     },
     {
@@ -20,7 +20,7 @@
       "description": "Rope AI换脸软件,让你轻松实现逼真而创意的人脸替换,为照片和影...",
       "author": "DFM",
       "file_size": "3.88M",
-      "downloads": 9046,
+      "downloads": "9046",
       "download_url": "下载链接3"
     },
     {
@@ -28,7 +28,7 @@
       "description": "ChatMLM3 是智谱AI和清华大学KEM 实验室联合发布的新一代对话...",
       "author": "DFM",
       "file_size": "3.47M",
-      "downloads": 3909,
+      "downloads": "3909",
       "download_url": "下载链接4"
     },
     {
@@ -36,7 +36,7 @@
       "description": "歌声转换模型使SoftVC 内容编码器从源音频中提取语音特征...",
       "author": "DFM",
       "file_size": "7.71M",
-      "downloads": 2818,
+      "downloads": "2818",
       "download_url": "下载链接5"
     },
     {
@@ -44,7 +44,7 @@
       "description": "Wav2Lip是一种基于深度学习的技术,旨在将音频与静态图像中的嘴部...",
       "author": "DFM",
       "file_size": "4.15M",
-      "downloads": 3009,
+      "downloads": "3009",
       "download_url": "下载链接6"
     },
     {
@@ -52,7 +52,7 @@
       "description": "Stable Diffusion Web UI的一键启动器 (AUTOMATIC1111/stable-...",
       "author": "DFM",
       "file_size": "6.83M",
-      "downloads": 2435,
+      "downloads": "2435",
       "download_url": "下载链接7"
     },
     {
@@ -60,7 +60,7 @@
       "description": "ComfyUI是一款强大的基于节点的界面,用于稳定扩散",
       "author": "DFM",
       "file_size": "4.35M",
-      "downloads": 2610,
+      "downloads": "2610",
       "download_url": "下载链接8"
     },
     {
@@ -68,7 +68,7 @@
       "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型...",
       "author": "DFM",
       "file_size": "7.76M",
-      "downloads": 4942,
+      "downloads": "4942",
       "download_url": "下载链接9"
     },
     {
@@ -76,7 +76,7 @@
       "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型...",
       "author": "DFM",
       "file_size": "7.76M",
-      "downloads": 4942,
+      "downloads": "4942",
       "download_url": "下载链接9"
     },
     {
@@ -84,7 +84,7 @@
         "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型...",
         "author": "DFM",
         "file_size": "7.76M",
-        "downloads": 4942,
+        "downloads": "4942",
         "download_url": "下载链接9"
     },
     {
@@ -92,7 +92,7 @@
         "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型...",
         "author": "DFM",
         "file_size": "7.76M",
-        "downloads": 4942,
+        "downloads": "4942",
         "download_url": "下载链接9"
     },
     {
@@ -100,7 +100,7 @@
         "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型...",
         "author": "DFM",
         "file_size": "7.76M",
-        "downloads": 4942,
+        "downloads": "4942",
         "download_url": "下载链接9"
     },
     {
@@ -108,7 +108,7 @@
       "description": "ComfyUI铁锅炖迷你版是一款强大的基于节点的界面,用于稳定扩散",
       "author": "DFM",
       "file_size": "5.26M",
-      "downloads": 1510,
+      "downloads": "1510",
       "download_url": "下载链接10"
     }
   ]
